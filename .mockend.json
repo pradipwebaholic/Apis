@@ -3,7 +3,7 @@
     "title": { "string": {} }
   }
   "Start":{
-    'Status':{'string':'true'}
+    "Status":{'string':[true]}
 
 }
 }
