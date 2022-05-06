@@ -3,6 +3,6 @@
     "title": { "string": {} }
   },
   "Start":{
-     "title": { "string": {} }
+     "stopped": { "string": [true, false] }
   }
 }
