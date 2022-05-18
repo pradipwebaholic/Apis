@@ -7,8 +7,16 @@
   }
   ,
   "Logger":{
+    result:[
      "client": { "string": {} },
-    "message": { "string": {} }
+    "message": { "string": {} },
+    "level":{ "int": { "min": 0, "max": 100 } },
+    "time" : { "int": { "min": 1000000000000, "max": 9999999999999 } }
+    ]
+    
+    
+    
+    
     
   }
 }
