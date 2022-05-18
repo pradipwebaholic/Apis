@@ -6,5 +6,7 @@
      "stopped": { "boolean":  {} }
   }
   ,
-  "sam2_logger":{}
+  "sam2_logger":{
+     "title": { "string": {} }
+  }
 }
