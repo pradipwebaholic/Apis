@@ -5,12 +5,6 @@
   "Start":{
      "stopped": { "boolean":  {} }
   }
-  ,
-  "Logger":{
-    
-     "client": { "string": {} },
-    "message": { "string": {} },
-   
-    
-}
+  
+ 
 }
