@@ -7,6 +7,8 @@
   }
   ,
   "Logger":{
-     "title": { "string": {} }
+     "client": { "string": {} },
+    "message": { "string": {} }
+    
   }
 }
